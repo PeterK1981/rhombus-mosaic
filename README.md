@@ -2,7 +2,6 @@
 
 Ein Bild wird in ein Mosaik aus Rhomben umgewandelt. Jedes Hexagon eines regelmäßigen Gitters wird in drei Rhomben zerlegt. Die Farbe einer Kachel entsteht aus den enthaltenen Bildpixeln. Optional reduziert K-Means im Lab-Farbraum die Palette; ähnliche Farben lassen sich anschließend zusammenführen.
 
-Die Kommandozeilenversion basiert auf `Verpixelung.ipynb`. Die ursprünglichen Notebooks bleiben als Experimente erhalten. Es ist kein Notebook-Server und keine grafische Oberfläche nötig.
 
 ## Installation
 

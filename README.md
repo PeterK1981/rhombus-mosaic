@@ -95,5 +95,3 @@ python -m unittest -v
 ```
 
 Die Tests erzeugen ihre Eingaben selbst: Ausgabeformate und -abmessungen, Vektorpolygone, Transparenz, Gitterabdeckung bei Drehung, Seitenverhältnisse, reproduzierbare Farbpaletten und Schutz vor unbeabsichtigtem Überschreiben. Keine privaten Bilder nötig.
-
-Für ein öffentliches Repository zunächst Code, README, Anforderungen und Tests auswählen. Die vorhandenen Ordner `resource` und `export` enthalten die ursprüngliche Bildsammlung und sollten nicht ungeprüft mit veröffentlicht werden. Eine Lizenz für Code und freigegebene Beispielbilder ist vor Veröffentlichung noch festzulegen.

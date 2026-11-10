@@ -44,7 +44,7 @@ python rhombenpixel.py --help
 Aufruf von einem beliebigen Arbeitsverzeichnis:
 
 ```powershell
-python "E:\Peter\DataScience\Rhombenpixelung\rhombenpixel.py" "C:\Bilder\mein bild.jpg" --side 20 -o "C:\Bilder\Ergebnisse\mosaik.png"
+python "<pfad>\rhombenpixel.py" "<zielpfad\mein bild.jpg" --side 20 -o "C:\Bilder\Ergebnisse\mosaik.png"
 ```
 
 ## Parameter
